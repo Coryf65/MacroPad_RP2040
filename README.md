@@ -1,4 +1,11 @@
-# My RP2040 MacroPad
+# RP2040 MacroPad
+
+ using 
+    - [CircuitPython](https://circuitpython.org/) 
+    - [VSCode](https://code.visualstudio.com/)
+
+ Thanks to *Adafruit* and *Kattni Rembor* for making this kit and examples!
+ Also thanks to *Damien George* and the *MicroPython community* for making this all possible!
 
 ## About
 
