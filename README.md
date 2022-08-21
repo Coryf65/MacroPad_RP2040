@@ -2,7 +2,7 @@
 
 - [CircuitPython](https://circuitpython.org/) 
 - [VSCode](https://code.visualstudio.com/)
-
+- All examples are also [here on GitHub](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad)
  Thanks to *Adafruit* and [*Kattni Rembor*](https://github.com/sponsors/kattni) for making this kit and examples!
  Also thanks to *Damien George* and the *MicroPython community* for making this all possible!
 
