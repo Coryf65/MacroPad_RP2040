@@ -1,13 +1,15 @@
 # RP2040 MacroPad
 
- using 
-    - [CircuitPython](https://circuitpython.org/) 
-    - [VSCode](https://code.visualstudio.com/)
+- [CircuitPython](https://circuitpython.org/) 
+- [VSCode](https://code.visualstudio.com/)
 
- Thanks to *Adafruit* and *Kattni Rembor* for making this kit and examples!
+ Thanks to *Adafruit* and [*Kattni Rembor*](https://github.com/sponsors/kattni) for making this kit and examples!
  Also thanks to *Damien George* and the *MicroPython community* for making this all possible!
 
-## About
+![Image showing the Macropad from top down. It has 12 rgb buttons with a small OLED screen and a rotary switch. It glows with led lights in a rainbow of colors.](docs\adafruit_products_MacroPad_top_glow.jpg)*image [credit](https://learn.adafruit.com/adafruit-macropad-rp2040):  Kattni Rembor*
+
+## Resources
+---
 
 - The [Adafruit RP2040 MacroPad](https://learn.adafruit.com/adafruit-macropad-rp2040)
 - Guide and [setup](https://learn.adafruit.com/adafruit-macropad-rp2040)
