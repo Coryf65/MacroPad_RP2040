@@ -9,6 +9,10 @@
 ![Image showing the Macropad from top down. It has 12 rgb buttons with a small OLED screen and a rotary switch. It glows with led lights in a rainbow of colors.](\docs\adafruit_products_MacroPad_top_glow.jpg) 
 *image [credit](https://learn.adafruit.com/adafruit-macropad-rp2040):  Kattni Rembor*
 
+## Currently Using Macros.py
+
+- built by [Phillip Burgess](https://learn.adafruit.com/macropad-hotkeys/project-code) on Adafruit
+
 ## Resources
 ---
 
