@@ -9,9 +9,21 @@
 ![Image showing the Macropad from top down. It has 12 rgb buttons with a small OLED screen and a rotary switch. It glows with led lights in a rainbow of colors.](https://github.com/Coryf65/MacroPad_RP2040/blob/main/docs/adafruit_products_MacroPad_top_glow.jpg) 
 *image [credit](https://learn.adafruit.com/adafruit-macropad-rp2040):  Kattni Rembor*
 
-## Currently Using Macros.py
+## What is it ?
 
-- built by [Phillip Burgess](https://learn.adafruit.com/macropad-hotkeys/project-code) on Adafruit
+A Macro pad for anything you want to make shortcuts into a single button press. like copy (Control + C) and paste (Control + Paste) into single button presses.
+
+Based from an awesome project by [Phillip Burgess](https://learn.adafruit.com/macropad-hotkeys/project-code) on Adafruit
+
+I have added my own Macros to this awesome Code base!
+
+- coding.py
+
+    - Using for Visual Studio 2022 Development work
+
+- Unity.py
+
+    - Soon to create for my Unity Game Engine Macros
 
 ## Resources
 ---
